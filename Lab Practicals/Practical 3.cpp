@@ -5,10 +5,10 @@ Objective
 The objective of this experiment is to interface a temperature sensor with an Arduino microcontroller, read temperature data, and display the output on the Serial Monitor.
 
 Materials Required
-Arduino Board (Arduino Uno)
-Temperature Sensor (LM35 or DHT11)
-Jumper Wires
-Arduino IDE*/
+- Arduino Board (Arduino Uno)
+- Temperature Sensor (LM35 or DHT11)
+- Jumper Wires
+- Arduino IDE*/
 
 #include <DHT.h>
 
